@@ -11,5 +11,8 @@ Utilizado:
 Instalar dentro do app:
 - npm install 
 
+Iniciar dentro do app:
+- npm start
+
 Seguido o tutorial abaixo: 
 https://www.youtube.com/watch?v=4sQhe7SEWsU&list=PLWNaqtzH6CWTFDejyIOiMVZNJPRvpEPc4&index=1&ab_channel=ProgrAmadaMente
